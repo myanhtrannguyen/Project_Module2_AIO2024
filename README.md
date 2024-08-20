@@ -5,4 +5,4 @@
    
 • Input: A text message.
 
-• Output**: Whether the message is spam or not (boolean).
+• Output: Whether the message is spam or not (boolean).
