@@ -3,6 +3,6 @@
 
 2. In this project, we will build a Text Classification program related to classifying whether a message is spam or not, using the Naive Bayes algorithm. The Input/Output of the program includes:
    
-• Input: A text message.
+- Input: A text message.
 
-• Output: Whether the message is spam or not (boolean).
+- Output: Whether the message is spam or not (boolean).
