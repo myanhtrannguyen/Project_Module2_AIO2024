@@ -2,11 +2,10 @@
 1. Stereo Matching is a significant problem in the field of Computer Vision, with the goal of reconstructing realistic 3D architecture from a pair of 2D images, known as stereo images. Stereo Matching is often applied in Autonomous Driving, Augmented Reality, and other related applications.
 
 2. In this project, you will get acquainted with the Stereo Matching problem by implementing several algorithms to compute the Disparity Map from a given pair of stereo images. With the Disparity Map, we can obtain actual Depth Information. The stereo image pairs used in this project include:
-   
-- Tsukuba images: Used in Problem 1.
-- Aloe: Used in Problems 2, 3, and 4.
+   Tsukuba images: Used in Problem 1.
+   Aloe: Used in Problems 2, 3, and 4.
 
-3. Problems
+4. Problems
 
    3.1. Problem 1:Build a function to compute the disparity map of two input stereo images (left image (L) and right image (R)) using the pixel-wise matching method.
 
